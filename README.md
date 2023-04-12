@@ -157,3 +157,5 @@ numactl --cpunodebind=0 --membind=0 <application>
 - https://www.youtube.com/watch?v=z5AAA3_iBTU (DevOps Amsterdam Meetup 2018 at Optiver - Low-latency Linux)
 
 - https://www.glennklockwood.com/hpc-howtos/process-affinity.html (Process affinity)
+
+- https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_real_time/9/html/optimizing_rhel_9_for_real_time_for_low_latency_operation/index
